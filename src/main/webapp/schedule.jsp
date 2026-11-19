@@ -12,7 +12,7 @@
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
-//added webhooks again
+//added webhooks
         body {
             background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
             min-height: 100vh;
